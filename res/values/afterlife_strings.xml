@@ -24,4 +24,7 @@
 
     <!-- AfterLife Version -->
     <string name="afterlife_version">AfterLife version</string>
+
+    <!-- AfterLife Maintainer -->
+    <string name="afterlife_maintainer">Device Maintainer</string>
 </resources>
