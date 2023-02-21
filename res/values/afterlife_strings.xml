@@ -31,4 +31,7 @@
 
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Tap to show info</string>
+
+    <!-- AfterLife Maintainer -->
+    <string name="afterlife_maintainer">Device Maintainer</string>
 </resources>
