@@ -112,6 +112,7 @@ android_library {
         "device_policy_aconfig_flags_lib",
         "keyboard_flags_lib",
         "glide",
+        "VendorSupport-Libs",
     ],
 
     plugins: [
