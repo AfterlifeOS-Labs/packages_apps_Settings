@@ -13672,4 +13672,6 @@
 
     <!-- Text for Search bar of Settings home screen [CHAR LIMIT=34] -->
     <string name="homepage_search">Search Settings</string>
+
+    <string name="reset">Reset</string>
 </resources>
